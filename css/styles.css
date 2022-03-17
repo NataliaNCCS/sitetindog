@@ -69,6 +69,13 @@ a:hover {
     line-height: 1.5;
 }
 
+@media (max-width: 1028px) {   
+    .headingtittle {
+        font-size: 3rem;
+        text-align: center;
+    }
+}
+
 .title-image {
     width: 60%;
     transform: rotate(25deg);
