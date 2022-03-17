@@ -108,7 +108,7 @@ a:hover {
 
 @media (max-width: 1028px) {   
     .features {
-        padding-top: 5rem;
+        padding-top: 7rem;
         padding-bottom: 5rem;
     }
 
@@ -154,7 +154,7 @@ a:hover {
 
 @media (max-width: 1028px) {   
     .testimonialsttl {
-        font-size: 2rem;
+        font-size: 1.75rem;
         }
 }
 
@@ -166,9 +166,14 @@ a:hover {
 
 .carousel-item {
     background-color: #ef8172;
-    padding: 7% 15%;
+    padding: 15%;
 }
 
+@media (max-width: 1028px) {   
+    .carousel-item {
+        padding-bottom: 25%;
+    }
+}
 /* IMPRENSA */
 
 #press {
@@ -192,7 +197,7 @@ a:hover {
 
 @media (max-width: 1028px) {   
     #pricing {
-        padding: 1rem;
+        padding: 3rem 1rem;
     }
 
 }
@@ -261,6 +266,13 @@ a:hover {
     font-size: 3rem;
     line-height: 1.5;
     padding-bottom: 2%;
+}
+
+@media (max-width: 1028px) {   
+    .footertxt {
+        font-size: 2rem;
+    }
+
 }
 
 .download-button-footer {
