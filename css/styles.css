@@ -63,14 +63,14 @@ a:hover {
     padding: 3% 15%;
 }
 
-.headingtittle {
+.headingtitle {
     font-weight: 900;
     font-size: 3.5rem;
     line-height: 1.5;
 }
 
 @media (max-width: 1028px) {   
-    .headingtittle {
+    .headingtitle {
         font-size: 3rem;
         text-align: center;
     }
@@ -133,7 +133,7 @@ a:hover {
     color: #ff4c68
 }
 
-.featurestittle {
+.featurestitle {
     font-weight: bold;
     line-height: 1.5rem;
     color: #3d3d3d;
@@ -212,7 +212,7 @@ a:hover {
 
 }
 
-.pricingtittle {
+.pricingtitle {
     font-weight: bold;
     font-size: 2.5rem;
 }
@@ -221,11 +221,11 @@ a:hover {
     font-size: 1.5rem;
 }
 
-.cardtittle {
+.cardtitle {
     color: #fff;
 }
 
-.preco, .cardtittle {
+.preco, .cardtitle {
     font-weight: bold;
     font-size: 2rem;
 }
